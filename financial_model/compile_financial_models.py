@@ -33,7 +33,7 @@ def create_financial_model_csv():
     print("Generating strategic growth curve line graph...")
     
     timelines = ['Year 1 Baseline', 'Year 2 Expansion Run']
-    subscribers = [4200, 26200] # Metric showing the 524% target spike
+    subscribers = [4200, 26200] 
 
     plt.figure(figsize=(8, 4.5))
     plt.plot(timelines, subscribers, marker='o', color='#e67e22', linewidth=3, markersize=8, label='Paying Subscribers')
@@ -42,7 +42,6 @@ def create_financial_model_csv():
     plt.ylabel('Active Premium Subscribers', fontsize=11)
     plt.grid(True, linestyle=':', alpha=0.6)
     
-    # Label individual metric intersection plots
     for i, txt in enumerate(subscribers):
         plt.annotate(f"{txt:,} Users", (timelines[i], subscribers[i]), textcoords="offset points", xytext=(0,10), ha='center', fontweight='bold')
 
