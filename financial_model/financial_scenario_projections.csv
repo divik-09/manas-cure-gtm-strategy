@@ -1,7 +1,7 @@
 Metric Category,Year 1 (Baseline Verification),Year 2 (Phased Expansion Run),Scenario Framework Pillar
-Target Patient Universe (TAM),"2,500,000","2,750,000",Total addressable segment
-Serviceable Obtainable Market (SOM),"50,000","1,50,000",Access-constrained focal points
-Paying Subscriber Base,"4,200","26,200",Active acquisition run
-Blended ARPU (INR/Year),"2,500","2,500",Affordability pricing tier
-Gross Projected Revenue (INR),"1,05,00,000","6,55,0,000",Calculated Gross Intake
-YoY Growth Rate %,N/A,524.0%,Target Milestone Vector
+Target Patient Universe (TAM),2500000,2750000,Total addressable segment
+Serviceable Obtainable Market (SOM),50000,150000,Access-constrained focal points
+Paying Subscriber Base,4200,26200,Active acquisition run
+Blended ARPU (INR/Year),2500,2500,Affordability pricing tier
+Gross Projected Revenue (INR),10500000,65500000,Calculated Gross Intake
+YoY Growth Rate %,0,524.0,Target Milestone Vector
